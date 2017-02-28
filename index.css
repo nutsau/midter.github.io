@@ -43,11 +43,8 @@ h3{
 	font-family: georgia;
 	font-weight: bold;
 	margin-top: 20px;
-	margin-left: 40px;
-	font-size: 120%
-	padding: 30px;
-
-	
+	margin-left: 20px;
+	font-size: 160%
 }
 
 h4{
@@ -57,8 +54,6 @@ h4{
 	margin-left: 40px;
 	font-weight: bold;
 	font-size: 160%
-
-
 }
 
 .img {
