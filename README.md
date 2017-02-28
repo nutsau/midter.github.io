@@ -1,1 +1,1 @@
-# midter.github.io
+# midterm.github.io
