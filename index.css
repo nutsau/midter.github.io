@@ -54,6 +54,8 @@ h4{
 	margin-left: 40px;
 	font-weight: bold;
 	font-size: 160%
+
+
 }
 
 .img {
@@ -128,3 +130,40 @@ a:hover {
 	font-weight: bold;
 	font-size: 160%;
 }
+
+.paragraph {
+	font-family: serif;
+	font-size: 20px;
+	margin-left: 60px;
+	margin-top: 80px;
+	margin-right: 60px;
+
+}
+
+.imgfour {
+	float: left;
+	width: 5%
+	height: 5%
+	margin-left:40px;
+	margin-top: 80px;
+	padding: 20px;
+}
+
+.h10 {
+	font-family: georgia;
+	margin-top: 40px;
+	text-align: center;
+	font-weight: bold;
+	font-size: 130%;
+	color: #1f75a8;
+}
+
+.axali {
+	font-family: georgia;
+	margin-top: 5px;
+	text-align: center;
+	margin-left: 92px;
+	font-size: 110%;
+	color: #1f75a8;
+}
+
